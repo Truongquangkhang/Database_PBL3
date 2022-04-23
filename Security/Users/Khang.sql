@@ -1,0 +1,2 @@
+CREATE USER [Khang] FOR LOGIN [Khang]
+GO
